@@ -26,6 +26,7 @@ function (myObjectivesInBeCode) {
 > I am scared to miss something on the way to our goals. But I am confident in **Johnson's Team** and our capacity to become a **Great Team** of developers. 
 
 I look forward to see results of our training and surprise myself, my friends and family. 
+
 In a *team* I value:
 1. Team Spirit
 2. Enthusiasm
